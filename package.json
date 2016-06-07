@@ -1,0 +1,24 @@
+{
+  "name": "beer-journal-website",
+  "version": "1.0.0",
+  "description": "Website for the Craft Beer journal app",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://breeny@github.com/breeny/beer-journal-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/breeny/beer-journal-website/issues"
+  },
+  "homepage": "https://github.com/breeny/beer-journal-website#readme"
+}
